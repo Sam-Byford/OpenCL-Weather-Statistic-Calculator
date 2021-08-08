@@ -1,6 +1,5 @@
 # OpenCL-Weather-Statistic-Calculator
 
-# Overview
 This program calculates the mean, minimum, maximum, and standard deviation of a supplied lincolnshire weather dataset. It begins by extracting the temperature values as floats from the dataset. The program is then split into two sections; 
 The first section contains the ‘optimised’ methods and calculates the statistical values in the most optimised way possible. The second section contains the ‘Non-optimised’ methods and calculates the statistics in a very in-efficient manner.
 
